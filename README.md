@@ -12,6 +12,10 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/daryast/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="30" width="40" /></a> 
  </div>
+
+- Codewars: <p>![image](https://www.codewars.com/users/Darya-s/badges/small)
+</p>
+ 
  
  
 <!--
