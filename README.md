@@ -2,8 +2,8 @@
   ## <div align="center">My name is Darya</div> 
 
  #### <div align="center"> I love technologies  in general :computer: and web development, especially when I get it 😄 and I see the result :thumbsup: .</div>
+</div>
 
-<div>
  - I'm working on final project at Hack Your Future bootcamp
  - 🌱  I’m currently learning TypeScript andReact at Hack Your Future 
  - 👯 I’m looking for junior or internship position as web developer or UI/UX designer.
