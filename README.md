@@ -3,12 +3,12 @@
 
  #### <div align="center"> I love technologies  in general :computer: and web development, especially when I get it 😄 and I see the result :thumbsup: .</div>
 
-<div >
-  - I'm working on final project at Hack Your Future bootcamp
+<div>
+ - I'm working on final project at Hack Your Future bootcamp
  - 🌱  I’m currently learning TypeScript andReact at Hack Your Future 
  - 👯 I’m looking for junior or internship position as web developer or UI/UX designer.
  - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally,in past.
+ - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally,in past.
 
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/daryast/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="30" width="40" /></a> 
