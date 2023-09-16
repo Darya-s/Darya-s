@@ -4,8 +4,8 @@
  #### <div align="center"> I love technologies  in general :computer: and web development, especially when I get it 😄 and I see the result :thumbsup: .</div>
 </div>
 
- - I'm working on final project at Hack Your Future bootcamp
- - 🌱  I’m currently learning TypeScript andReact at Hack Your Future 
+ - :computer: I'm currently working on final project at Hack Your Future bootcamp
+ - 🌱  I’m currently learning TypeScript and React at Hack Your Future 
  - 👯 I’m looking for junior or internship position as web developer or UI/UX designer.
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally,in past.
