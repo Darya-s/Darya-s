@@ -1,4 +1,4 @@
-## <div align="center"> Hi there 👋 </div>
+## <div align="center" text-decoration="none"> Hi there 👋 </div>
  ## <div align="center">My name is Darya</div> 
 
  #### <div align="center">I have a deep passion for technology in general, and web development holds a special place in my heart, especially when I grasp it and witness the tangible results it brings. :thumbsup:</div>
