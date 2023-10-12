@@ -1,7 +1,7 @@
-## <div align="center"> Hi there 👋 
-  ## <div align="center">My name is Darya</div> 
+ <div align="center"> Hi there 👋 
+  <div align="center">My name is Darya</div> 
 
- #### <div align="center">I have a deep passion for technology in general, and web development holds a special place in my heart, especially when I grasp it and witness the tangible results it brings. :thumbsup:
+ <div align="center">I have a deep passion for technology in general, and web development holds a special place in my heart, especially when I grasp it and witness the tangible results it brings. :thumbsup:
 </div>
 
  - :computer: I'm currently working on final project at Hack Your Future bootcamp
