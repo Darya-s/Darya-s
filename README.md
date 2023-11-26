@@ -4,11 +4,11 @@
  #### <div align="center">I have a deep passion for technology in general, and web development holds a special place in my heart, especially when I grasp it and witness the tangible results it brings. :thumbsup:</div>
 
 
- - :computer: I'm currently working on final project at Hack Your Future bootcamp
- - 🌱  I’m currently learning TypeScript and React at Hack Your Future 
- - 👯 I’m looking for junior or internship position as web developer.
+ - :computer: I've recently graduated from Hack Your Future bootcamp
+ - 🌱  I’m currently learning TypeScript and React 
+ - 👯 I’m looking for junior or internship position as full-stack/front-end developer.
  - 😄 Pronouns: she/her
- - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally,in past.
+ - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally, in past.
 
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/daryast/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="30" width="40" /></a> 
