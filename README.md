@@ -5,13 +5,13 @@
 
 
  - :computer: I've recently graduated from Hack Your Future bootcamp
- - 🌱  I’m currently learning TypeScript and React 
+ - 🌱 I'm currently enhancing my skills in React and TypeScript.
  - 👯 I’m looking for junior or internship position as full-stack/front-end developer.
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally, in past.
 
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/daryast/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Natalia Persson" height="30" width="40" /></a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/daryast/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darya Stepanova" height="30" width="40" /></a> 
  </div>
 
 - Codewars: ![image](https://www.codewars.com/users/Darya-s/badges/small)
