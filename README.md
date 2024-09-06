@@ -4,9 +4,9 @@
  #### <div align="center">I have a deep passion for technology in general, and web development holds a special place in my heart, especially when I grasp it and witness the tangible results it brings. :thumbsup:</div>
 
 
- - :computer: I've recently graduated from Hack Your Future bootcamp
+ - :computer: I'm a front end developer
  - 🌱 I'm currently enhancing my skills in React and TypeScript.
- - 👯 I’m looking for junior or internship position as full-stack/front-end developer.
+ - 👯 I’m looking for a position as full-stack/front-end developer.
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally, in past.
 
