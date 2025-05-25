@@ -4,9 +4,9 @@
  #### <div align="center">I have a deep passion for technology in general, and web development holds a special place in my heart, especially when I grasp it and witness the tangible results it brings. :thumbsup:</div>
 
 
- - :computer: I'm a front end developer
- - 🌱 I'm currently enhancing my skills in React and TypeScript.
- - 👯 I’m looking for a position as full-stack/front-end developer.
+ - :computer: I'm a front end developer aiming to full stack
+ - 🌱 I'm currently enhancing my skills in TypeScript.
+ - 👯 I’m working at great company Spirii 
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: I've played 🎮 Counter Strike Global Offensive semi-professionally, in past.
 
